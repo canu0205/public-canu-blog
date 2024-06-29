@@ -1,0 +1,18 @@
+site_name: My Docs
+theme:
+  name: material
+plugins:
+  - pub-blog:
+      temp_dir: .pub_blog_temp
+      archive_subdir: archive
+      categories_subdir: categories
+      tags_subdir: tags
+  - pub-obsidian:
+      backlinks:
+        enabled: true
+      callouts:
+        enabled: true
+        indentation: spaces
+      links:
+        wikilinks_enabled: true
+        img_lazy: true

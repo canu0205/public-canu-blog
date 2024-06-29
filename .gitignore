@@ -1,0 +1,4 @@
+/.venv
+.DS_Store
+.pub_blog_temp
+/site
