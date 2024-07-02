@@ -1,7 +1,9 @@
 site_name: My Docs
 theme:
   name: material
+  custom_dir: overrides
 plugins:
+  - pub-meta:
   - pub-blog:
       temp_dir: .pub_blog_temp
       archive_subdir: archive

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "blog/Welcome.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "blog/Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "blog/Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "blog/Welcome.md"
               }
             }
           }
@@ -160,6 +160,9 @@
   },
   "active": "0cf9f2fcd23f94c4",
   "lastOpenFiles": [
+    "blog/books/Hardthing.md",
+    "blog/books",
+    "canu.blog.md",
     "blog/Welcome.md",
     "index.md",
     "_templates"
