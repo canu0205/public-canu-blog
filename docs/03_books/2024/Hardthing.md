@@ -1,25 +1,25 @@
 ---
 title: Hardthing
-slug: pub-meta
+slug: hardthing
 publish: true
 date: 2024-07-02 14:00:00
 update: 2024-07-02 14:30:00
 description: Takeaways from the book "The Hard Thing About Hard Things" by Ben Horowitz.
 categories:
-  - book
-  - business
-  - management
+    - book
+    - business
+    - management
+tags:
+    - Ben Horowitz
 ---
-
-# The Hard Thing About Hard Things
 
 Takeaways from the book "The Hard Thing About Hard Things" by Ben Horowitz.
 
 ## Takeaways
 
-- **The Struggle**: There are no shortcuts to success. The struggle is real and it's the only way to get to the top.
-- **The Struggle is Real**: The struggle is real and it's the only way to get to the top.
-- **The Struggle is the Way**: The struggle is real and it's the only way to get to the top.
+-   **The Struggle**: There are no shortcuts to success. The struggle is real and it's the only way to get to the top.
+-   **The Struggle is Real**: The struggle is real and it's the only way to get to the top.
+-   **The Struggle is the Way**: The struggle is real and it's the only way to get to the top.
 
 ## Quotes
 
@@ -28,10 +28,6 @@ Takeaways from the book "The Hard Thing About Hard Things" by Ben Horowitz.
 ## Summary
 
 The struggle is real and it's the only way to get to the top. There are no shortcuts to success. The struggle is the way.
-
-## Backlinks
-
-[[index]]
 
 ## Callouts
 

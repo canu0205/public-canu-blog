@@ -1,23 +1,23 @@
 ---
 title: Welcome, this is start!
-slug: pub-meta
+slug: welcome
 publish: true
-date: 2024-07-02 14:00:00
-update: 2024-07-02 14:30:00
+date: 2024-07-03 14:00:00
+update: 2024-07-03 14:30:00
 description: This is the start of my blog. I'll test some features such as backlinks, callouts, links.
 categories:
-  - setup
+  - welcome
   - plugin
   - meta
+tags:
+  - v0.1
 ---
 
 # this is start of my blog
 
 I'll test some features such as backlinks, callouts, links.
 
-## backlinks
-
-[[index]]
+<!-- more -->
 
 ## callouts
 
