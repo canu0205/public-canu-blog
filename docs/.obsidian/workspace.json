@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "145a33cf63775983",
+        "id": "6bed705c33568c3c",
         "type": "tabs",
         "children": [
           {
-            "id": "0cf9f2fcd23f94c4",
+            "id": "8401efed2343697a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_blog/Welcome.md",
+                "file": "02_blog/Start.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_blog/Welcome.md",
+                "file": "02_blog/Start.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_blog/Welcome.md",
+                "file": "02_blog/Start.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_blog/Welcome.md"
+                "file": "02_blog/Start.md"
               }
             }
           }
@@ -146,8 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0cf9f2fcd23f94c4",
+  "active": "8401efed2343697a",
   "lastOpenFiles": [
+    "02_blog/Welcome.md",
+    "02_blog/Start.md",
+    "02_blog/README.md",
+    "02_blog/Start of my blog.md",
+    "02_blog/Start of my blog.mx",
+    "01_index.md",
     "_templates/README.md",
     "02_blog/Welcome2.md",
     "02_blog/Welcome copy.md",
@@ -162,8 +168,6 @@
     "03_books/Remain as brand.md",
     "03_books/ARemain as brand.md",
     "03_books/aRemain as brand.md",
-    "02_blog/Welcome.md",
-    "02_blog/README.md",
     "02_blog/Hello.md",
     "01_home.md",
     "assets/images/favicon.ico",
@@ -182,8 +186,6 @@
     "books/Hardthing.md",
     "books",
     "blog/books/Hardthing.md",
-    "blog/books",
-    "canu.blog.md",
-    "index.md"
+    "canu.blog.md"
   ]
 }

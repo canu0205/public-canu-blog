@@ -35,5 +35,3 @@ The struggle is real and it's the only way to get to the top. There are no short
 > testing callouts
 
 ## Links
-
-[welcome](https://canu.blog)

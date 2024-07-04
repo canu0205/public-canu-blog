@@ -3,6 +3,11 @@ site_name: chris park
 copyright: >
   &copy; 2024 Chanwoo Chris Park
 
+docs_dir: "docs"
+site_dir: "site"
+
+use_directory_urls: true
+
 extra:
   homepage: https://canu0205.github.io/public-canu-blog
 
