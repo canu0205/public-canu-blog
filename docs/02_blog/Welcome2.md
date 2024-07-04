@@ -1,12 +1,12 @@
 ---
-title: Welcome, this is start!
-slug: welcome
+title: Welcome2, this is start!
+slug: welcome2
 publish: true
-date: 2024-07-03 14:00:00
-update: 2024-07-03 14:30:00
+date: 2024-07-04 14:00:00
+update: 2024-07-04 14:30:00
 description: This is the start of my blog. I'll test some features such as backlinks, callouts, links.
 categories:
-    - welcome
+    - welcome2
     - plugin
     - meta
 tags:
@@ -19,11 +19,13 @@ I'll test some features such as backlinks, callouts, links.
 
 ## callouts
 
-> [!note]
+> [!WARNING]
 > testing callouts
 
 ## links
 
 [previous](https://canu.blog)
 
-[welcome2](./Welcome2.md)
+[welcome](./Welcome.md)
+
+[Hardthing](../03_books/2024/Hardthing.md)
