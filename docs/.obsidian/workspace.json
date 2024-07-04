@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_blog/Start.md",
+                "file": "02_blog/Start2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_blog/Start.md",
+                "file": "02_blog/Start2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_blog/Start.md",
+                "file": "02_blog/Start2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_blog/Start.md"
+                "file": "02_blog/Start2.md"
               }
             }
           }
@@ -148,8 +148,11 @@
   },
   "active": "8401efed2343697a",
   "lastOpenFiles": [
-    "02_blog/Welcome.md",
     "02_blog/Start.md",
+    "02_blog/Start2.md",
+    "02_blog/2Start.md",
+    "02_blog/Start2md",
+    "02_blog/Welcome.md",
     "02_blog/README.md",
     "02_blog/Start of my blog.md",
     "02_blog/Start of my blog.mx",
@@ -183,9 +186,6 @@
     "README.md",
     "blog/Hello.md",
     "books/Remain as brand.md",
-    "books/Hardthing.md",
-    "books",
-    "blog/books/Hardthing.md",
-    "canu.blog.md"
+    "books/Hardthing.md"
   ]
 }

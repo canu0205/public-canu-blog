@@ -1,9 +1,9 @@
 ---
-title: Start
-slug: start
+title: Start2
+slug: start2
 publish: true
-date: 2024-07-03 14:00:00
-update: 2024-07-03 14:30:00
+date: 2024-07-04 14:00:00
+update: 2024-07-04 14:30:00
 description: Start of my blog
 categories:
     - blog
