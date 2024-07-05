@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "6bed705c33568c3c",
+        "id": "01b1f1fd2cdbef20",
         "type": "tabs",
         "children": [
           {
-            "id": "8401efed2343697a",
+            "id": "2bc0fe4df48dd7ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_blog/Start2.md",
+                "file": "02_blog/Start.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c9bd578eb6a2fa51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_index.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_blog/Start2.md",
+                "file": "01_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_blog/Start2.md",
+                "file": "01_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_blog/Start2.md"
+                "file": "01_index.md"
               }
             }
           }
@@ -146,9 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8401efed2343697a",
+  "active": "c9bd578eb6a2fa51",
   "lastOpenFiles": [
+    "02_blog/24년도 상반기 회고.md",
     "02_blog/Start.md",
+    "03_books/2024/Hardthing.md",
     "02_blog/Start2.md",
     "02_blog/2Start.md",
     "02_blog/Start2md",
@@ -164,7 +179,6 @@
     "03_books/2023",
     "03_books/2024/Remain as brand.md",
     "03_books/Hardthing.md",
-    "03_books/2024/Hardthing.md",
     "03_books/2024",
     "03_books/posts",
     "03_books/index.md",
@@ -185,7 +199,6 @@
     "02_blog",
     "README.md",
     "blog/Hello.md",
-    "books/Remain as brand.md",
-    "books/Hardthing.md"
+    "books/Remain as brand.md"
   ]
 }
