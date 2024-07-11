@@ -6,18 +6,8 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://canu0205.github.io/public-canu-blog/blog/recap-24-1H/</loc>
-         <lastmod>2024-07-04</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://canu0205.github.io/public-canu-blog/blog/start/</loc>
-         <lastmod>2024-07-03</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://canu0205.github.io/public-canu-blog/blog/start2/</loc>
-         <lastmod>2024-07-04</lastmod>
+         <loc>https://canu0205.github.io/public-canu-blog/blog/retrospect-24-1H/</loc>
+         <lastmod>2024-07-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
@@ -27,7 +17,7 @@
     </url>
     <url>
          <loc>https://canu0205.github.io/public-canu-blog/books/2024/hardthing/</loc>
-         <lastmod>2024-07-04</lastmod>
+         <lastmod>2024-07-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
@@ -41,27 +31,12 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://canu0205.github.io/public-canu-blog/blog/categories/blog/</loc>
-         <lastmod>2024-07-11</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://canu0205.github.io/public-canu-blog/blog/categories/personal/</loc>
-         <lastmod>2024-07-11</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://canu0205.github.io/public-canu-blog/blog/categories/retrospection/</loc>
+         <loc>https://canu0205.github.io/public-canu-blog/blog/categories/retrospect/</loc>
          <lastmod>2024-07-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://canu0205.github.io/public-canu-blog/blog/tags/undefined/</loc>
-         <lastmod>2024-07-11</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://canu0205.github.io/public-canu-blog/blog/tags/v0.1/</loc>
          <lastmod>2024-07-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
