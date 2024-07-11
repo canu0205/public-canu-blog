@@ -8,31 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2bc0fe4df48dd7ec",
+            "id": "c9bd578eb6a2fa51",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_blog/Start.md",
+                "file": "02_blog/24년도 상반기 회고.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c9bd578eb6a2fa51",
+            "id": "f9237e6c2da8a48b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_index.md",
+                "file": "03_books/2024/Hardthing.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_index.md",
+                "file": "02_blog/24년도 상반기 회고.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_index.md",
+                "file": "02_blog/24년도 상반기 회고.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_index.md"
+                "file": "02_blog/24년도 상반기 회고.md"
               }
             }
           }
@@ -161,9 +160,13 @@
   },
   "active": "c9bd578eb6a2fa51",
   "lastOpenFiles": [
-    "02_blog/24년도 상반기 회고.md",
-    "02_blog/Start.md",
     "03_books/2024/Hardthing.md",
+    "assets/images/IMG_4135.jpg",
+    "02_blog/24년도 상반기 회고.md",
+    "assets/images/deference_poster_ff.png",
+    "03_books/2023/Remain as brand.md",
+    "01_index.md",
+    "02_blog/Start.md",
     "02_blog/Start2.md",
     "02_blog/2Start.md",
     "02_blog/Start2md",
@@ -171,11 +174,9 @@
     "02_blog/README.md",
     "02_blog/Start of my blog.md",
     "02_blog/Start of my blog.mx",
-    "01_index.md",
     "_templates/README.md",
     "02_blog/Welcome2.md",
     "02_blog/Welcome copy.md",
-    "03_books/2023/Remain as brand.md",
     "03_books/2023",
     "03_books/2024/Remain as brand.md",
     "03_books/Hardthing.md",
@@ -198,7 +199,6 @@
     "blog/Welcome.md",
     "02_blog",
     "README.md",
-    "blog/Hello.md",
-    "books/Remain as brand.md"
+    "blog/Hello.md"
   ]
 }

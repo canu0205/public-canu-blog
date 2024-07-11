@@ -6,11 +6,9 @@ date: 2023-10-02 00:39:00
 update: 2023-10-07 17:47:00
 description: Remain as brand
 categories:
-    - brand
-    - business
-    - management
-tags:
-    - 홍성태
+  - brand
+  - business
+  - management
 ---
 
 > **시작**
