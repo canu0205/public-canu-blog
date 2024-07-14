@@ -21,6 +21,16 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://canu0205.github.io/public-canu-blog/crypto/mainnet/ethereum-101/</loc>
+         <lastmod>2024-07-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://canu0205.github.io/public-canu-blog/crypto/mainnet/solana-101/</loc>
+         <lastmod>2024-07-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://canu0205.github.io/public-canu-blog/index-0/</loc>
          <lastmod>2024-07-14</lastmod>
          <changefreq>daily</changefreq>
