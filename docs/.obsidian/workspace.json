@@ -8,12 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4e0b642153e771d6",
+            "id": "7aa880a6a54234bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_crypto/01_Mainnet/02_Solana 101.md",
+                "file": "04_crypto/02_Comparison/01_Pyth vs. Chainlink.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b8d9afb00af61fa8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04_crypto/01_Mainnet101/02_Solana 101.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04_crypto/01_Mainnet/02_Solana 101.md",
+                "file": "04_crypto/02_Comparison/01_Pyth vs. Chainlink.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04_crypto/01_Mainnet/02_Solana 101.md",
+                "file": "04_crypto/02_Comparison/01_Pyth vs. Chainlink.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04_crypto/01_Mainnet/02_Solana 101.md"
+                "file": "04_crypto/02_Comparison/01_Pyth vs. Chainlink.md"
               }
             }
           }
@@ -158,15 +170,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4e0b642153e771d6",
+  "active": "7aa880a6a54234bc",
   "lastOpenFiles": [
-    "04_crypto/01_Mainnet/01_Ethereum 101.md",
+    "04_crypto/01_Mainnet101/02_Solana 101.md",
+    "04_crypto/02_Comparison/01_Pyth vs. Chainlink.md",
+    "04_crypto/02_Comparison/README.md",
+    "04_crypto/01_Mainnet101/README.md",
+    "04_crypto/02_Comparison",
     "03_books/2024/Hardthing.md",
-    "04_crypto/01_Mainnet/02_Solana 101.md",
-    "04_crypto/01_Mainnet/README.md",
+    "04_crypto/01_Mainnet101/01_Ethereum 101.md",
     "04_crypto/README.md",
     "01_index.md",
-    "04_crypto/01_Mainnet",
+    "04_crypto/01_Mainnet101",
     "_templates/README.md",
     "03_books/README.md",
     "02_blog/24년도 상반기 회고.md",
@@ -193,13 +208,10 @@
     "03_books/Remain as brand.md",
     "03_books/ARemain as brand.md",
     "03_books/aRemain as brand.md",
-    "02_blog/Hello.md",
-    "01_home.md",
     "assets/images/favicon.ico",
     "assets/images/IMG_5682.PNG",
     "assets/images/azuki_elementals_transparent.png",
     "assets/images/azuki_elementals#19724_transparent.png",
-    "assets/images",
-    "assets"
+    "assets/images"
   ]
 }
