@@ -13,6 +13,54 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "04_crypto/03_Technical/01_Upgradeable contract.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7a2b27502e4a6433",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03_books/2024/종만북.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0935b957a321354c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_blog/24년도 상반기 회고.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6dd5b12ce0063dde",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03_books/2024/Hardthing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "55166f99e820187c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "04_crypto/02_Comparison/01_Pyth vs. Chainlink.md",
                 "mode": "source",
                 "source": false
@@ -30,20 +78,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f9237e6c2da8a48b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03_books/2024/Hardthing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -93,7 +130,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 240.5
   },
   "right": {
     "id": "a87a9c71d1f48cd3",
@@ -109,9 +146,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04_crypto/02_Comparison/01_Pyth vs. Chainlink.md",
-                "collapseAll": false,
-                "extraContext": false,
+                "file": "03_books/2024/Hardthing.md",
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -126,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04_crypto/02_Comparison/01_Pyth vs. Chainlink.md",
+                "file": "03_books/2024/Hardthing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,16 +186,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04_crypto/02_Comparison/01_Pyth vs. Chainlink.md"
+                "file": "03_books/2024/Hardthing.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,24 +207,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7aa880a6a54234bc",
+  "active": "6dd5b12ce0063dde",
   "lastOpenFiles": [
+    "02_blog/24년도 상반기 회고.md",
+    "03_books/2024/종만북.md",
+    "04_crypto/03_Technical/01_Upgradeable contract.md",
+    "_templates/README.md",
     "04_crypto/01_Mainnet101/02_Solana 101.md",
     "04_crypto/02_Comparison/01_Pyth vs. Chainlink.md",
+    "03_books/2024/Hardthing.md",
+    "06_sector/Deep Dive - AI.md",
+    "assets/images/Screenshot 2024-07-23 at 3.34.05 PM.png",
+    "assets/images/Screenshot 2024-07-23 at 3.29.29 PM.png",
+    "assets/images/Screenshot 2024-07-22 at 5.22.40 PM.png",
+    "assets/images/Pasted image 20240722172050.png",
+    "assets/images/Screenshot 2024-07-22 at 5.07.33 PM.png",
+    "assets/images/Pasted image 20240722165251.png",
+    "assets/images/Pasted image 20240722164654.png",
+    "assets/images/Pasted image 20240722163343.png",
+    "assets/images/Pasted image 20240722163111.png",
+    "assets/images/Pasted image 20240722150419.png",
+    "06_sector",
+    "03_books/2024/Untitled.md",
+    "05_algorithm",
+    "04_crypto/03_Technical/README.md",
+    "04_crypto/03_Technical",
     "04_crypto/02_Comparison/README.md",
     "04_crypto/01_Mainnet101/README.md",
     "04_crypto/02_Comparison",
-    "03_books/2024/Hardthing.md",
     "04_crypto/01_Mainnet101/01_Ethereum 101.md",
     "04_crypto/README.md",
     "01_index.md",
     "04_crypto/01_Mainnet101",
-    "_templates/README.md",
     "03_books/README.md",
-    "02_blog/24년도 상반기 회고.md",
     "04_crypto",
-    "assets/images/IMG_4135.jpg",
-    "assets/images/deference_poster_ff.png",
     "03_books/2023/Remain as brand.md",
     "02_blog/Start.md",
     "02_blog/Start2.md",
@@ -200,18 +253,6 @@
     "02_blog/Welcome2.md",
     "02_blog/Welcome copy.md",
     "03_books/2023",
-    "03_books/2024/Remain as brand.md",
-    "03_books/Hardthing.md",
-    "03_books/2024",
-    "03_books/posts",
-    "03_books/index.md",
-    "03_books/Remain as brand.md",
-    "03_books/ARemain as brand.md",
-    "03_books/aRemain as brand.md",
-    "assets/images/favicon.ico",
-    "assets/images/IMG_5682.PNG",
-    "assets/images/azuki_elementals_transparent.png",
-    "assets/images/azuki_elementals#19724_transparent.png",
-    "assets/images"
+    "03_books/2024"
   ]
 }
