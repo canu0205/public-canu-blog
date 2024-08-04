@@ -21,6 +21,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://canu0205.github.io/public-canu-blog/books/2024/ps-jmbook/</loc>
+         <lastmod>2024-07-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://canu0205.github.io/public-canu-blog/crypto/mainnet-101/solana-101/</loc>
          <lastmod>2024-08-04</lastmod>
          <changefreq>daily</changefreq>
