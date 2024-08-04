@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03_books/2024/Hardthing.md",
+                "file": "02_blog/24년도 상반기 회고.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03_books/2024/Hardthing.md",
+                "file": "02_blog/24년도 상반기 회고.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03_books/2024/Hardthing.md"
+                "file": "02_blog/24년도 상반기 회고.md"
               }
             }
           }
@@ -207,15 +207,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6dd5b12ce0063dde",
+  "active": "0935b957a321354c",
   "lastOpenFiles": [
+    "03_books/2024/Hardthing.md",
     "02_blog/24년도 상반기 회고.md",
     "03_books/2024/종만북.md",
     "04_crypto/03_Technical/01_Upgradeable contract.md",
     "_templates/README.md",
     "04_crypto/01_Mainnet101/02_Solana 101.md",
     "04_crypto/02_Comparison/01_Pyth vs. Chainlink.md",
-    "03_books/2024/Hardthing.md",
     "06_sector/Deep Dive - AI.md",
     "assets/images/Screenshot 2024-07-23 at 3.34.05 PM.png",
     "assets/images/Screenshot 2024-07-23 at 3.29.29 PM.png",
