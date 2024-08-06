@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_blog/24년도 상반기 회고.md",
+                "file": "03_books/2024/종만북.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_blog/24년도 상반기 회고.md",
+                "file": "03_books/2024/종만북.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_blog/24년도 상반기 회고.md"
+                "file": "03_books/2024/종만북.md"
               }
             }
           }
@@ -207,9 +207,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0935b957a321354c",
+  "active": "7a2b27502e4a6433",
   "lastOpenFiles": [
+    "assets/images/IMG_4471.jpg",
     "03_books/2024/Hardthing.md",
+    "assets/images/IMG_4451.jpg",
+    "assets/images/IMG_4448.jpg",
+    "assets/images/IMG_4135.jpg",
     "02_blog/24년도 상반기 회고.md",
     "03_books/2024/종만북.md",
     "04_crypto/03_Technical/01_Upgradeable contract.md",
@@ -224,9 +228,6 @@
     "assets/images/Screenshot 2024-07-22 at 5.07.33 PM.png",
     "assets/images/Pasted image 20240722165251.png",
     "assets/images/Pasted image 20240722164654.png",
-    "assets/images/Pasted image 20240722163343.png",
-    "assets/images/Pasted image 20240722163111.png",
-    "assets/images/Pasted image 20240722150419.png",
     "06_sector",
     "03_books/2024/Untitled.md",
     "05_algorithm",
