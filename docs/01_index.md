@@ -10,7 +10,7 @@ categories:
 
 # chris park
 
-![](assets/images/azuki_elementals_transparent.png)
+<img src="assets/images/azuki_elementals_transparent.png" alt="azuki_elementals" width="50%">
 
 ^ this is elemental 19724. an NFT i own and use as my online avi. i just
 like the art ;-)

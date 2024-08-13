@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "4cbc2578138d05c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04_crypto/04_Project/01_Exponents.fi.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "55166f99e820187c",
             "type": "leaf",
             "state": {
@@ -42,21 +54,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f9237e6c2da8a48b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03_books/2024/Hardthing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03_books/2024/Hardthing.md",
+                "file": "03_books/2024/종만북.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03_books/2024/Hardthing.md",
+                "file": "03_books/2024/종만북.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,16 +161,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03_books/2024/Hardthing.md"
+                "file": "03_books/2024/종만북.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,32 +182,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f9237e6c2da8a48b",
+  "active": "ac44a582afa445eb",
   "lastOpenFiles": [
+    "04_crypto/04_Project/01_Exponents.fi.md",
+    "04_crypto/04_Project/README.md",
+    "04_crypto/01_Mainnet101/README.md",
+    "04_crypto/03_Technical/README.md",
+    "03_books/2024/종만북.md",
+    "04_crypto/04_Project",
+    "04_crypto/01_Mainnet101/02_Solana 101.md",
+    "04_crypto/02_Comparison/01_Pyth vs. Chainlink.md",
+    "03_books/2024/Hardthing.md",
     "assets/images/IMG_4496.jpg",
     "assets/images/IMG_4494 2.jpg",
     "assets/images/IMG_4494.jpg",
     "assets/images/IMG_4497.jpg",
     "assets/images/IMG_4495.jpg",
     "assets/images/IMG_4471.jpg",
-    "03_books/2024/종만북.md",
     "assets/images/IMG_4451.jpg",
     "assets/images/IMG_4448.jpg",
     "assets/images/Pasted image 20240722165251.png",
     "assets/images/Pasted image 20240722163111.png",
-    "assets/images/Pasted image 20240722172050.png",
     "06_sector/Deep Dive - AI.md",
     "06_sector",
     "04_crypto/03_Technical/01_Upgradeable contract.md",
     "05_algorithm",
-    "04_crypto/01_Mainnet101/02_Solana 101.md",
-    "04_crypto/02_Comparison/01_Pyth vs. Chainlink.md",
-    "04_crypto/03_Technical/README.md",
     "04_crypto/03_Technical",
     "04_crypto/02_Comparison/README.md",
-    "04_crypto/01_Mainnet101/README.md",
     "04_crypto/02_Comparison",
-    "03_books/2024/Hardthing.md",
     "04_crypto/01_Mainnet101/01_Ethereum 101.md",
     "04_crypto/README.md",
     "01_index.md",
@@ -228,8 +229,6 @@
     "02_blog/Start of my blog.mx",
     "02_blog/Welcome2.md",
     "02_blog/Welcome copy.md",
-    "03_books/2023",
-    "03_books/2024/Remain as brand.md",
-    "03_books/2024"
+    "03_books/2023"
   ]
 }
