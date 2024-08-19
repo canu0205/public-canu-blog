@@ -10,6 +10,9 @@ categories:
     - business
 ---
 
+> Author: Ben Horowitz
+
+
 # 메모
 
 <img src="../../assets/images/IMG_4135.jpg" alt="hardthing_img" width="50%">

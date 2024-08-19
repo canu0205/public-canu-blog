@@ -3,7 +3,7 @@ title: Which is better? Pyth vs. Chainlink
 slug: oracle-war
 date: <% tp.date.now("YYYY-MM-DD HH:mm:ss") %>
 update: <% tp.date.now("YYYY-MM-DD HH:mm:ss") %>
-publish: true
+publish: false
 ---
 > [!takeaways]
 > - How pyth catch up w/ chainlink's dominance in oracle sectors?
