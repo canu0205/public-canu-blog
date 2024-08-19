@@ -21,18 +21,13 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://canu.blog/books/2024/read-write-own/</loc>
+         <lastmod>2024-08-19</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://canu.blog/books/2024/ps-jmbook/</loc>
          <lastmod>2024-08-13</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://canu.blog/crypto/mainnet-101/solana-101/</loc>
-         <lastmod>2024-08-19</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://canu.blog/crypto/comparison/oracle-war/</loc>
-         <lastmod>2024-08-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
