@@ -13,18 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_crypto/03_Technical/01_Upgradeable contract.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7a2b27502e4a6433",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "03_books/2024/종만북.md",
                 "mode": "source",
                 "source": false
@@ -32,24 +20,12 @@
             }
           },
           {
-            "id": "8725e1162add4ffd",
+            "id": "4cbc2578138d05c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_books/2024/Read Write Own.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "55166f99e820187c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04_crypto/02_Comparison/01_Pyth vs. Chainlink.md",
+                "file": "04_crypto/04_Project/01_Exponents.fi.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_crypto/01_Mainnet101/02_Solana 101.md",
+                "file": "02_blog/24년도 상반기 회고.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.5
+    "width": 300
   },
   "right": {
     "id": "a87a9c71d1f48cd3",
@@ -134,9 +110,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03_books/2024/Read Write Own.md",
-                "collapseAll": true,
-                "extraContext": true,
+                "file": "02_blog/24년도 상반기 회고.md",
+                "collapseAll": false,
+                "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -151,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03_books/2024/Read Write Own.md",
+                "file": "02_blog/24년도 상반기 회고.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03_books/2024/Read Write Own.md"
+                "file": "02_blog/24년도 상반기 회고.md"
               }
             }
           }
@@ -192,57 +168,56 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "publish:Publish changes...": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "8725e1162add4ffd",
+  "active": "b8d9afb00af61fa8",
   "lastOpenFiles": [
-    "03_books/2024/종만북.md",
-    "03_books/2024/Hardthing.md",
     "03_books/2024/Read Write Own.md",
-    "03_books/2024/Read, Write, Own.md",
+    "03_books/2024/종만북.md",
+    "04_crypto/04_Project/01_Exponents.fi.md",
+    "04_crypto/04_Project/02_Pendle finance.md",
+    "04_crypto/02_Comparison/01_Pyth vs. Chainlink.md",
+    "02_blog/Real Reviews on Hosting side event on KBW.md",
+    "03_books/2024/Hardthing.md",
     "assets/images/Pasted image 20240813220030.png",
     "assets/images/Pasted image 20240813220008.png",
     "assets/images/Pasted image 20240813215749.png",
-    "04_crypto/04_Project/02_Pendle finance.md",
-    "04_crypto/04_Project/Untitled.md",
-    "04_crypto/03_Technical/01_Upgradeable contract.md",
-    "02_blog/24년도 상반기 회고.md",
-    "04_crypto/04_Project/01_Exponents.fi.md",
+    "04_crypto/01_Mainnet101/02_Solana 101.md",
+    "04_crypto/01_Mainnet101/01_Ethereum 101.md",
     "04_crypto/04_Project/README.md",
+    "04_crypto/01_Mainnet101/README.md",
+    "04_crypto/03_Technical/README.md",
     "04_crypto/04_Project",
-    "04_crypto/Untitled",
-    "assets/images/IMG_4497.jpg",
     "assets/images/IMG_4496.jpg",
-    "assets/images/IMG_4495.jpg",
     "assets/images/IMG_4494 2.jpg",
     "assets/images/IMG_4494.jpg",
-    "04_crypto/01_Mainnet101/02_Solana 101.md",
+    "assets/images/IMG_4497.jpg",
+    "assets/images/IMG_4495.jpg",
+    "assets/images/IMG_4471.jpg",
     "assets/images/IMG_4451.jpg",
-    "04_crypto/02_Comparison/01_Pyth vs. Chainlink.md",
-    "assets/images/Pasted image 20240722165251.png",
-    "_templates/README.md",
     "06_sector/Deep Dive - AI.md",
     "06_sector",
-    "03_books/2024/Untitled.md",
+    "04_crypto/03_Technical/01_Upgradeable contract.md",
     "05_algorithm",
-    "04_crypto/03_Technical/README.md",
     "04_crypto/03_Technical",
     "04_crypto/02_Comparison/README.md",
-    "04_crypto/01_Mainnet101/README.md",
     "04_crypto/02_Comparison",
-    "04_crypto/01_Mainnet101/01_Ethereum 101.md",
     "04_crypto/README.md",
     "01_index.md",
     "04_crypto/01_Mainnet101",
+    "_templates/README.md",
     "03_books/README.md",
+    "02_blog/24년도 상반기 회고.md",
     "04_crypto",
     "03_books/2023/Remain as brand.md",
     "02_blog/Start.md",
     "02_blog/Start2.md",
     "02_blog/2Start.md",
     "02_blog/Start2md",
-    "02_blog/Start of my blog.mx"
+    "02_blog/Welcome.md",
+    "02_blog/README.md",
+    "02_blog/Start of my blog.mx",
+    "03_books/2023"
   ]
 }
