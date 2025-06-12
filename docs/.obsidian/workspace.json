@@ -49,8 +49,7 @@
               "title": "ABCI"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -171,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04_crypto/01_Cosmos/ABCI.md",
+                "file": "04_crypto/01_Cosmos/Cosmos EVM module analysis.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ABCI"
+              "title": "Outline of Cosmos EVM module analysis"
             }
           }
         ],
@@ -193,7 +192,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04_crypto/01_Cosmos/ABCI.md",
+                "file": "04_crypto/01_Cosmos/Cosmos EVM module analysis.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -221,7 +220,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of ABCI"
+              "title": "Graph of Cosmos EVM module analysis"
             }
           }
         ]
@@ -240,22 +239,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a80b6035d942605f",
+  "active": "b3ee9790cd2ea143",
   "lastOpenFiles": [
-    "04_crypto/01_Cosmos/CometBFT.md",
+    "03_books/2024/Hardthing.md",
+    "03_books/2024/Read Write Own.md",
+    "03_books/2024/종만북.md",
+    "04_crypto/01_Cosmos/Cosmos EVM module analysis.md",
     "04_crypto/01_Cosmos/ABCI.md",
+    "04_crypto/01_Cosmos/CometBFT.md",
     "assets/images/Screenshot 2025-05-16 at 4.01.06 PM.png",
     "assets/Screenshot 2025-05-16 at 4.01.06 PM.png",
-    "04_crypto/01_Cosmos/Cosmos EVM module analysis.md",
     "01_index.md",
     "02_blog/24년도 상반기 회고.md",
     "04_crypto/01_Cosmos/README.md",
     "04_crypto/01_Cosmos/01_Ethereum 101.md",
     "_templates/README.md",
-    "03_books/2024/Hardthing.md",
-    "03_books/2024/종만북.md",
     "04_crypto/04_Project/01_Exponents.fi.md",
-    "03_books/2024/Read Write Own.md",
     "04_crypto/04_Project/02_Pendle finance.md",
     "04_crypto/02_Comparison/01_Pyth vs. Chainlink.md",
     "02_blog/Real Reviews on Hosting side event on KBW.md",

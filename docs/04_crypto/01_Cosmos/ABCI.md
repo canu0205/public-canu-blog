@@ -12,10 +12,12 @@ https://github.com/cometbft/cometbft/tree/v1.0.1/abci
 With this repository, developers can build their own blockchains(or applications) in any language that supports sockets since the ABCI is a socket protocol.
 
 Below is super simple Counter using ABCI that i made.
+
 https://github.com/canu0205/cosmos_hands_on_ex/tree/master/abci-counter
 
 ## Key Functions in ABCI
 [abci github spec](https://github.com/cometbft/cometbft/blob/v0.37.x/spec/abci/abci++_basic_concepts.md#consensusblock-execution-methods)
+
 [abci tutorial](https://tutorials.cosmos.network/academy/2-cosmos-concepts/1-architecture.html#test-yourself-a-pseudo-coding-exercise)
 ### `CheckTx`
 Many functions that could be broadcast should not be broadcast.
@@ -28,4 +30,5 @@ Instructs the Application to persist its state. It is a fundamental part of Come
 `BeginBlock` and `EndBlock` messages are sent through the ABCI even if blocks contain no transactions. This provides positive confirmation of basic connectivity and helps identify time periods with no operations. These methods facilitate the execution of scheduled processes that should always run because they call methods at the application level, where developers define processes.
 
 ![[Screenshot 2025-05-16 at 4.01.06 PM.png]]
+
 Only communicates at the **`FinalizeCommit` Phase**.

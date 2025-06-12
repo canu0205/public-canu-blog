@@ -7,7 +7,7 @@ publish: true
 ---
 > Author: Chris Dixon
 
-# Memo
+## Memo
 
 "한마디로 블록체인 네트워크는 더 나은 인터넷을 만들기 위한 새로운 건축자재다." - p.29
 

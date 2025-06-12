@@ -12,7 +12,7 @@ categories:
 
 > Author: Ben Horowitz
 
-# 메모
+## 메모
 
 ![[IMG_4135.png|300]]
 
