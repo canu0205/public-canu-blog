@@ -1,7 +1,6 @@
 ---
-title: Ethereum 101
-slug: ethereum-101
+title: Cosmos
+slug: cosmos
 date: <% tp.date.now("YYYY-MM-DD HH:mm:ss") %>
 update: <% tp.date.now("YYYY-MM-DD HH:mm:ss") %>
-publish: false
 ---
