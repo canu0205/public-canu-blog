@@ -16,19 +16,23 @@
                 "file": "03_books/2024/종만북.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "종만북"
             }
           },
           {
-            "id": "4cbc2578138d05c9",
+            "id": "b3ee9790cd2ea143",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_crypto/04_Project/01_Exponents.fi.md",
+                "file": "03_books/2024/Hardthing.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Hardthing"
             }
           },
           {
@@ -40,11 +44,13 @@
                 "file": "02_blog/24년도 상반기 회고.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "24년도 상반기 회고"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -63,8 +69,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -79,7 +88,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -87,7 +98,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -110,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_blog/24년도 상반기 회고.md",
+                "file": "03_books/2024/Hardthing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +131,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Hardthing"
             }
           },
           {
@@ -127,10 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_blog/24년도 상반기 회고.md",
+                "file": "03_books/2024/Hardthing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Hardthing"
             }
           },
           {
@@ -140,8 +157,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -150,8 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_blog/24년도 상반기 회고.md"
-              }
+                "file": "03_books/2024/Hardthing.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Hardthing"
             }
           }
         ],
@@ -171,11 +197,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b8d9afb00af61fa8",
+  "active": "b3ee9790cd2ea143",
   "lastOpenFiles": [
-    "03_books/2024/Read Write Own.md",
     "03_books/2024/종만북.md",
     "04_crypto/04_Project/01_Exponents.fi.md",
+    "02_blog/24년도 상반기 회고.md",
+    "03_books/2024/Read Write Own.md",
     "04_crypto/04_Project/02_Pendle finance.md",
     "04_crypto/02_Comparison/01_Pyth vs. Chainlink.md",
     "02_blog/Real Reviews on Hosting side event on KBW.md",
@@ -208,7 +235,6 @@
     "04_crypto/01_Mainnet101",
     "_templates/README.md",
     "03_books/README.md",
-    "02_blog/24년도 상반기 회고.md",
     "04_crypto",
     "03_books/2023/Remain as brand.md",
     "02_blog/Start.md",
