@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_crypto/01_Cosmos/ABCI.md",
+                "file": "02_blog/24년도 상반기 회고.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ABCI"
+              "title": "24년도 상반기 회고"
             }
           }
         ],
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04_crypto/01_Cosmos/ABCI.md",
+                "file": "02_blog/24년도 상반기 회고.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ABCI"
+              "title": "Outline of 24년도 상반기 회고"
             }
           }
         ],
@@ -179,7 +179,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04_crypto/01_Cosmos/ABCI.md",
+                "file": "02_blog/24년도 상반기 회고.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -207,7 +207,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of ABCI"
+              "title": "Graph of 24년도 상반기 회고"
             }
           }
         ]
@@ -228,16 +228,19 @@
   },
   "active": "a80b6035d942605f",
   "lastOpenFiles": [
+    "02_blog/README.md",
+    "01_index.md",
+    "04_crypto/README.md",
+    "02_blog/Real Review on Hosting side event on KBW.md",
+    "04_crypto/01_Cosmos/ABCI.md",
     "04_crypto/01_Cosmos/CometBFT.md",
     "_attachments/Screenshot 2025-05-16 at 4.01.06 PM.png",
-    "04_crypto/01_Cosmos/ABCI.md",
     "04_crypto/01_Cosmos/Cosmos EVM module analysis.md",
     "_attachments",
     "03_books/2024/Hardthing.md",
     "03_books/2024/Read Write Own.md",
     "03_books/2024/종만북.md",
     "assets/Screenshot 2025-05-16 at 4.01.06 PM.png",
-    "01_index.md",
     "02_blog/24년도 상반기 회고.md",
     "04_crypto/01_Cosmos/README.md",
     "04_crypto/01_Cosmos/01_Ethereum 101.md",
@@ -245,7 +248,6 @@
     "04_crypto/04_Project/01_Exponents.fi.md",
     "04_crypto/04_Project/02_Pendle finance.md",
     "04_crypto/02_Comparison/01_Pyth vs. Chainlink.md",
-    "02_blog/Real Reviews on Hosting side event on KBW.md",
     "_attachments/Pasted image 20240813220030.png",
     "_attachments/Pasted image 20240813220008.png",
     "_attachments/Pasted image 20240813215749.png",
@@ -264,7 +266,6 @@
     "04_crypto/03_Technical",
     "04_crypto/02_Comparison/README.md",
     "04_crypto/02_Comparison",
-    "04_crypto/README.md",
     "04_crypto/01_Cosmos",
     "03_books/README.md",
     "04_crypto",
