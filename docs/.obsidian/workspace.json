@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3483aa0abaaedf37",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04_crypto/01_Cosmos/CometBFT.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CometBFT"
-            }
-          },
-          {
             "id": "a80b6035d942605f",
             "type": "leaf",
             "state": {
@@ -35,8 +21,7 @@
               "title": "24년도 상반기 회고"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -228,12 +213,13 @@
   },
   "active": "a80b6035d942605f",
   "lastOpenFiles": [
+    "04_crypto/01_Cosmos/CometBFT.md",
+    "02_blog/24년도 상반기 회고.md",
     "02_blog/README.md",
     "01_index.md",
     "04_crypto/README.md",
     "02_blog/Real Review on Hosting side event on KBW.md",
     "04_crypto/01_Cosmos/ABCI.md",
-    "04_crypto/01_Cosmos/CometBFT.md",
     "_attachments/Screenshot 2025-05-16 at 4.01.06 PM.png",
     "04_crypto/01_Cosmos/Cosmos EVM module analysis.md",
     "_attachments",
@@ -241,7 +227,6 @@
     "03_books/2024/Read Write Own.md",
     "03_books/2024/종만북.md",
     "assets/Screenshot 2025-05-16 at 4.01.06 PM.png",
-    "02_blog/24년도 상반기 회고.md",
     "04_crypto/01_Cosmos/README.md",
     "04_crypto/01_Cosmos/01_Ethereum 101.md",
     "_templates/README.md",
